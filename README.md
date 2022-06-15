@@ -5,7 +5,7 @@ I'm an incoming University of Toronto CS student from Toronto, Ontario 🇨🇦.
 - 🔭 I’m currently working as a core maintainer on [refactoring.nvim](https://github.com/thePrimeagen/refactoring.nvim), as well as on my latest project, [LANChat](https://github.com/pranavrao145/lanchat). 
 - 🗃️ I've also worked on various other projects in the past, such as [Fulcrum](https://github.com/pranavrao145/fulcrum-mk2) and [Book Club](https://github.com/pranavrao145/book-club). See my [repositories tab](https://github.com/pranavrao145?tab=repositories) for a full list!
 - 🌱 I’m currently learning Golang, React, and the WebSocket protocol. See my adventures in exploring these technologies in my newest work-in-progress project, [LANChat](https://github.com/pranavrao145/lanchat). I am also learning more about DevOps tools such as Hashicorp's Packer and Terraform.
-- 💬 Ask me about Linux, Neovim, and the [refactoring project](https://github.com/thePrimeagen/refactoring.nvim). Take a look at my [dotfiles](https://github.com/pranavrao145/dotfiles)!
+- 💬 Ask me about Linux, Neovim, and the [refactoring project](https://github.com/thePrimeagen/refactoring.nvim). Feel free to take a look at my [dotfiles](https://github.com/pranavrao145/dotfiles)!
 - 📫 You can reach me by: 
   - Sending me a DM on Discord (my username is `cypher#1121`)
   - Connecting with me on [LinkedIn](https://www.linkedin.com/in/pranavrao145/)
