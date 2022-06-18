@@ -1,9 +1,9 @@
 ### Hi, I'm Pranav 👋
 
 I'm an incoming University of Toronto CS student from Toronto, Ontario 🇨🇦.
-I'm interested in full stack app development, networking and cybersecurity, and
-the improving the developer experience. In the future, I'd like to learn Rust,
-more DevOps tools, as well as more about ML/AI.
+I'm interested in full stack app development, networking and cybersecurity, 
+as well as improving the developer experience. In the future, 
+I'd like to learn Rust, more DevOps tools, as well as more about ML/AI.
 
 - 🔭 I’m currently working as a core maintainer on
   [refactoring.nvim](https://github.com/thePrimeagen/refactoring.nvim), as well
