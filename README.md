@@ -1,22 +1,25 @@
 ### Hi, I'm Pranav 👋
 
-I'm an incoming University of Toronto CS student from Toronto, Ontario 🇨🇦.
-I'm interested in full stack app development, networking and cybersecurity, 
-as well as improving the developer experience. In the future, 
-I'd like to learn Rust, more DevOps tools, as well as more about ML/AI.
+I'm a first-year University of Toronto CS student from Toronto, Ontario 🇨🇦.
+I'm interested in full stack app development, networking and cybersecurity, as
+well as improving the developer experience. In the future, I'd like to learn
+more about Rust, DevOps, and ML/AI.
 
 - 🔭 I’m currently working as a core maintainer on
   [refactoring.nvim](https://github.com/thePrimeagen/refactoring.nvim), as well
-  as on my latest project, [LANChat](https://github.com/pranavrao145/lanchat).
+  as on my latest project, StoryBuilder, the components of which you can view
+  [here](https://github.com/pranavrao145/storybuilder-server) and
+  [here](https://github.com/pranavrao145/storybuilder-cli).
 - 🗃️ I've also worked on various other projects in the past, such as
-  [Fulcrum](https://github.com/pranavrao145/fulcrum-mk2) and [Book
-  Club](https://github.com/pranavrao145/book-club). See my [repositories
+  [Fulcrum](https://github.com/pranavrao145/fulcrum-mk2), [Book
+  Club](https://github.com/pranavrao145/book-club), and
+  [LANChat](https://github.com/pranavrao145/lanchat). See my [repositories
   tab](https://github.com/pranavrao145?tab=repositories) for a full list!
-- 🌱 I’m currently learning Golang, React, and the WebSocket protocol. See my
-  adventures in exploring these technologies in my newest project,
-  [LANChat](https://github.com/pranavrao145/lanchat). I am also learning more
-  about various DevOps tools.
-- 💬 Ask me about Linux, Neovim, and the [refactoring
+- 🌱 I’m currently learning Rust. See my adventures in exploring it in (one
+  part of) my newest project, [StoryBuilder
+  CLI](https://github.com/pranavrao145/storybuilder-tui). I am also learning
+  more about various DevOps tools. 💬 Ask me about Linux, Neovim, and the
+  [refactoring
   project](https://github.com/thePrimeagen/refactoring.nvim). Feel free to take
   a look at my [dotfiles](https://github.com/pranavrao145/dotfiles)!
 - 📫 You can reach me by:
@@ -42,6 +45,7 @@ I'd like to learn Rust, more DevOps tools, as well as more about ML/AI.
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Golang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 
 ### Frameworks
@@ -64,9 +68,9 @@ I'd like to learn Rust, more DevOps tools, as well as more about ML/AI.
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/pranavrao145/pranavrao145">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavrao145&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pranav's GitHub Stats" />
-</a>
-<a href="https://github.com/pranavrao145/pranavrao145">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrao145&hide=html,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<a href="https://github.com/pranavrao145/pranavrao145"> <img align="center"
+src="https://github-readme-stats.vercel.app/api?username=pranavrao145&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+alt="Pranav's GitHub Stats" /> </a> <a
+href="https://github.com/pranavrao145/pranavrao145"> <img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrao145&hide=html,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
+/> </a>
