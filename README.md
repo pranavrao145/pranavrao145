@@ -25,8 +25,6 @@ more about Rust, DevOps, and ML/AI.
 - 📫 You can reach me by:
   - Sending me a DM on Discord (my username is `cypher#1121`)
   - Connecting with me on [LinkedIn](https://www.linkedin.com/in/pranavrao145/)
-  - Using the form at the bottom of my [personal
-    website](https://pranavrao-personal-website.herokuapp.com/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love learning new languages (not just programming languages,
   but real ones as well). I'm currently teaching myself Spanish!
