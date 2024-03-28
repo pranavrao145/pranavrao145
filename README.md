@@ -7,8 +7,8 @@ exploring ML/AI and DevOps.
 
 - 🔭 I’m currently working as a core maintainer on
   [refactoring.nvim](https://github.com/thePrimeagen/refactoring.nvim), as well
-  as on my latest just-for-fun project, which you can view
-  [here](https://github.com/pranavrao145/ftp-client).
+  as on the University of Toronto's MarkUs grading tool, which you can view
+  [here](https://github.com/MarkUsProject/Markus).
 - 🗃️ I've also worked on various other projects in the past, such as
   [Fulcrum](https://github.com/pranavrao145/fulcrum-mk3), [Book
   Club](https://github.com/pranavrao145/book-club), and
