@@ -1,28 +1,26 @@
 ### Hi, I'm Pranav 👋
 
-I'm a second-year University of Toronto CS student from Toronto, Ontario 🇨🇦.
+I'm a third-year University of Toronto CS student from Toronto, Ontario 🇨🇦.
 I'm interested in full stack app development, networking and cybersecurity, as
 well as improving the developer experience. In the future, I am interested in
 exploring ML/AI and DevOps.
 
-- 🔭 I’m currently working as a core maintainer on
-  [refactoring.nvim](https://github.com/thePrimeagen/refactoring.nvim), as well
-  as on the University of Toronto's MarkUs grading tool, which you can view
-  [here](https://github.com/MarkUsProject/Markus).
+- 🔭 I’m currently working as a developer on the Students Developing Software team, enhancing and maintaining
+  [Markus](https://github.com/MarkUsProject/Markus).
 - 🗃️ I've also worked on various other projects in the past, such as
   [Fulcrum](https://github.com/pranavrao145/fulcrum-mk3), [Book
   Club](https://github.com/pranavrao145/book-club), and
   [StoryBuilder](https://github.com/pranavrao145/storybuilder-cli). See my
   [repositories tab](https://github.com/pranavrao145?tab=repositories) for a
   full list!
-- 🌱 I have recently started exploring the world of AI/ML and have done some
-  very elementary projects in the area like [Fashion MNIST
-  Classifier](https://github.com/pranavrao145/fashion-mnist-classifier).
+<!---
+- 🌱 I have recently started exploring the world of AI/ML and have done some very elementary projects in the area like [Fashion MNIST Classifier](https://github.com/pranavrao145/fashion-mnist-classifier).
+-->
 - 💬 Ask me about Linux, Neovim, and the
   [refactoring project](https://github.com/thePrimeagen/refactoring.nvim). Feel free to take
   a look at my [dotfiles](https://github.com/pranavrao145/dotfiles)!
 - 📫 You can reach me by:
-  - Sending me a DM on Discord (my username is `cypher#1121`)
+  - Sending me a DM on Discord (my username is `cypher1121`)
   - Connecting with me on [LinkedIn](https://www.linkedin.com/in/pranavrao145/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love learning new languages (not just programming languages,
